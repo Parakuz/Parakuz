@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+### Now i'm just a student in some college
+### But now i know i want to be Full stack developer
+#### I will comeback and decorate my github profile later
+
 
 <!--
 **Parakuz/Parakuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
